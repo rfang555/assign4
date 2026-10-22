@@ -29,4 +29,4 @@ with tabs[2]:
 # Tab 4: Volume Chart
 with tabs[3]:
     st.subheader(f"Something New")
-    st.bar_chart(df['Volume'])
+    print('Ryan Fang loves AC420')
